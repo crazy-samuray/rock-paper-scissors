@@ -7,7 +7,7 @@ pygame kullanarak geliştirme yaptım
 Repoda bulunan kodları kullanmak için:
 1.Phytone kurmalısınız
 2.Phytone kütüphanesini kurmalısınız;
-'''phytone
+```pythone
 pip install pygame
-'''
+```
 3.Kodlarımın bulunduğu repoyu klonlayıp üzerinde çalışabilirsiniz
